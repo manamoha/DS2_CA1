@@ -1,0 +1,46 @@
+{D:/UT/Semester 5/Digital Systems 2/CAs/CA1/DataPath.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA1/DataPath.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Counter1
+-- Compiling module Counter2
+-- Compiling module Reg
+-- Compiling module Comp
+-- Compiling module Mux
+-- Compiling module Add1
+
+Top level modules:
+	Counter1
+	Counter2
+	Reg
+	Comp
+	Mux
+	Add1
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA1/Controller.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA1/Controller.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA1/BubbleSort.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA1/BubbleSort.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bubbleSort
+
+Top level modules:
+	bubbleSort
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA1/TestBench.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA1/TestBench.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BubbleSortTB
+
+Top level modules:
+	BubbleSortTB
+
+} {} {}} {D:/UT/Semester 5/Digital Systems 2/CAs/CA1/Memory.sv} {1 {vlog -work work -sv -stats=none {D:/UT/Semester 5/Digital Systems 2/CAs/CA1/Memory.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}}
